@@ -1,0 +1,9 @@
+*~
+.idea/
+Munin Documentation Crawler.iml
+out/
+
+# Output directories
+output/
+output2/
+
